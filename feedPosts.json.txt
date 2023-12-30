@@ -1,0 +1,20 @@
+[
+	{
+		"user_name": "ABC",
+		"user_profile_pic": "abc",
+		"post_image": "abc",
+		"location": "",
+		"likes": 102,
+		"comments": 23,
+		"share": 3
+	},
+	{
+		"user_name": "ABC",
+		"user_profile_pic": "abc",
+		"post_image": "abc",
+		"location": "",
+		"likes": 102,
+		"comments": 23,
+		"share": 3
+	}
+]
