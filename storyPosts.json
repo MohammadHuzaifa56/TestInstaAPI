@@ -1,0 +1,66 @@
+[
+  {
+    "user_name": "JohnDoe",
+    "profile_pic": "https://media.npr.org/assets/img/2022/12/30/ap22364795346345-2c6120b6fd7a4e91f1b49c8bafa1d3b9ae28e482-s1100-c50.jpg"
+  },
+  {
+    "user_name": "JaneSmith",
+    "profile_pic": "https://i.guim.co.uk/img/media/400c88c3dbf2090591aa93f7c4acd1e4de5befa8/65_190_5578_3348/master/5578.jpg"
+  },
+  {
+    "user_name": "AdventureSeeker",
+    "profile_pic": "https://personalitytypefamouspeople.files.wordpress.com/2020/10/sm-bonin-khabib-nurmagomedov-7-4a81a18f-luhc.jpg"
+  },
+  {
+    "user_name": "FoodieExplorer",
+    "profile_pic": "https://media.wired.com/photos/655d0963cf7ac1fe17f48f2b/master/pass/10-Apps-That-Make-Traveling-Solo-Easier%E2%80%94and-Fun-Gear-GettyImages-1156812619.jpg"
+  },
+  {
+    "user_name": "FitnessFanatic",
+    "profile_pic": "https://media.wired.com/photos/655d0963cf7ac1fe17f48f2b/master/pass/10-Apps-That-Make-Traveling-Solo-Easier%E2%80%94and-Fun-Gear-GettyImages-1156812619.jpg"
+  },
+  {
+    "user_name": "CutePets",
+    "profile_pic": "https://www.helpguide.org/wp-content/uploads/2023/02/Benefits-of-Pets.jpeg"
+  },
+  {
+    "user_name": "TechGeek",
+    "profile_pic": "https://i.pinimg.com/originals/48/db/ea/48dbeaeda16a62f70ca2a236d09553e3.jpg"
+  },
+  {
+    "user_name": "Fashionista",
+    "profile_pic": "https://miro.medium.com/v2/resize:fit:615/0*iAtFOZfZYrLepZyG.jpg"
+  },
+  {
+    "user_name": "JohnDoe",
+    "profile_pic": "https://media.npr.org/assets/img/2022/12/30/ap22364795346345-2c6120b6fd7a4e91f1b49c8bafa1d3b9ae28e482-s1100-c50.jpg"
+  },
+  {
+    "user_name": "JaneSmith",
+    "profile_pic": "https://i.guim.co.uk/img/media/400c88c3dbf2090591aa93f7c4acd1e4de5befa8/65_190_5578_3348/master/5578.jpg"
+  },
+  {
+    "user_name": "AdventureSeeker",
+    "profile_pic": "https://personalitytypefamouspeople.files.wordpress.com/2020/10/sm-bonin-khabib-nurmagomedov-7-4a81a18f-luhc.jpg"
+  },
+  {
+    "user_name": "FoodieExplorer",
+    "profile_pic": "https://media.wired.com/photos/655d0963cf7ac1fe17f48f2b/master/pass/10-Apps-That-Make-Traveling-Solo-Easier%E2%80%94and-Fun-Gear-GettyImages-1156812619.jpg"
+  },
+  {
+    "user_name": "FitnessFanatic",
+    "profile_pic": "https://media.wired.com/photos/655d0963cf7ac1fe17f48f2b/master/pass/10-Apps-That-Make-Traveling-Solo-Easier%E2%80%94and-Fun-Gear-GettyImages-1156812619.jpg"
+  },
+  {
+    "user_name": "CutePets",
+    "profile_pic": "https://www.helpguide.org/wp-content/uploads/2023/02/Benefits-of-Pets.jpeg"
+  },
+  {
+    "user_name": "TechGeek",
+    "profile_pic": "https://i.pinimg.com/originals/48/db/ea/48dbeaeda16a62f70ca2a236d09553e3.jpg"
+  },
+  {
+    "user_name": "Fashionista",
+    "profile_pic": "https://miro.medium.com/v2/resize:fit:615/0*iAtFOZfZYrLepZyG.jpg"
+  }
+]
