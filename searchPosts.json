@@ -1,0 +1,161 @@
+[
+    {
+        "user_name": "JohnDoe",
+        "user_profile_pic": "https://media.npr.org/assets/img/2022/12/30/ap22364795346345-2c6120b6fd7a4e91f1b49c8bafa1d3b9ae28e482-s1100-c50.jpg",
+        "post_image": "https://i.guim.co.uk/img/media/3f183e3024872dc0280012487854dc5807048166/0_42_3600_2160/master/3600.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=058c94b78fa84d2639fecbef790041f1",
+        "location": "New York, NY",
+        "likes": 256,
+        "is_small": true,
+        "comments": 32,
+        "share": 8
+    },
+    {
+        "user_name": "JaneSmith",
+        "user_profile_pic": "https://i.guim.co.uk/img/media/400c88c3dbf2090591aa93f7c4acd1e4de5befa8/65_190_5578_3348/master/5578.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=1595c4be7d0f15b3aca1b8b1101945c2",
+        "post_image": "https://cdn.vox-cdn.com/thumbor/xk00poxt8cbsxTqBXM-ICWdAvGQ=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/24627608/1485755960.jpg",
+        "location": "Los Angeles, CA",
+        "is_small": true,
+        "likes": 198,
+        "comments": 15,
+        "share": 5
+    },
+    {
+        "user_name": "AdventureSeeker",
+        "user_profile_pic": "https://personalitytypefamouspeople.files.wordpress.com/2020/10/sm-bonin-khabib-nurmagomedov-7-4a81a18f-luhc.jpg",
+        "post_image": "https://cdn.vox-cdn.com/thumbor/TdwucbVuJrszHwlT_0QttVxfO9w=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/23103774/1350270985.jpg",
+        "location": "Mount Everest",
+        "likes": 453,
+        "is_small": false,
+        "comments": 42,
+        "share": 12
+    },
+    {
+        "user_name": "FoodieExplorer",
+        "user_profile_pic": "https://media.wired.com/photos/655d0963cf7ac1fe17f48f2b/master/pass/10-Apps-That-Make-Traveling-Solo-Easier%E2%80%94and-Fun-Gear-GettyImages-1156812619.jpg",
+        "post_image": "https://imageio.forbes.com/blogs-images/johnnyjet/files/2017/10/traveling-alone.jpg?height=598&width=640&fit=bounds",
+        "location": "Paris, France",
+        "likes": 712,
+        "is_small": true,
+        "comments": 78,
+        "share": 20
+    },
+    {
+        "user_name": "FitnessFanatic",
+        "user_profile_pic": "https://media.wired.com/photos/655d0963cf7ac1fe17f48f2b/master/pass/10-Apps-That-Make-Traveling-Solo-Easier%E2%80%94and-Fun-Gear-GettyImages-1156812619.jpg",
+        "post_image": "https://markinthenews.com/wp-content/uploads/2020/07/Leisure-Travel.jpg",
+        "location": "Gym Zone",
+        "likes": 632,
+    	  "is_small" : false
+        "comments": 55,
+        "share": 18
+    },
+    {
+        "user_name": "CutePets",
+        "user_profile_pic": "https://www.helpguide.org/wp-content/uploads/2023/02/Benefits-of-Pets.jpeg",
+        "post_image": "https://contentgrid.homedepot-static.com/hdus/en_US/DTCCOMNEW/Articles/best-carpet-for-pets-2022-hero.jpg",
+        "location": "Pet Paradise",
+        "likes": 892,
+        "is_small": true,
+        "comments": 92,
+        "share": 25
+    },
+    {
+        "user_name": "TechGeek",
+        "user_profile_pic": "https://i.pinimg.com/originals/48/db/ea/48dbeaeda16a62f70ca2a236d09553e3.jpg",
+        "post_image": "https://thebrownidentity.com/wp-content/uploads/2020/07/pinkvilla.jpg",
+        "location": "Silicon Valley",
+        "likes": 345,
+        "is_small": true,
+        "comments": 28,
+        "share": 9
+    },
+    {
+        "user_name": "Fashionista",
+        "user_profile_pic": "https://miro.medium.com/v2/resize:fit:615/0*iAtFOZfZYrLepZyG.jpg",
+        "post_image": "https://i.guim.co.uk/img/media/59c1b14b1677cc33e27967cf6b11c8fd99a93761/0_102_1080_648/master/1080.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=41356e05bb3a48148afcbbccc71519f4",
+        "location": "Milan, Italy",
+        "likes": 502,
+        "is_small": false,
+        "comments": 61,
+        "share": 15
+    },
+    {
+        "user_name": "JohnDoe",
+        "user_profile_pic": "https://media.npr.org/assets/img/2022/12/30/ap22364795346345-2c6120b6fd7a4e91f1b49c8bafa1d3b9ae28e482-s1100-c50.jpg",
+        "post_image": "https://i.guim.co.uk/img/media/3f183e3024872dc0280012487854dc5807048166/0_42_3600_2160/master/3600.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=058c94b78fa84d2639fecbef790041f1",
+        "location": "New York, NY",
+        "likes": 256,
+        "is_small": true,
+        "comments": 32,
+        "share": 8
+    },
+    {
+        "user_name": "JaneSmith",
+        "user_profile_pic": "https://i.guim.co.uk/img/media/400c88c3dbf2090591aa93f7c4acd1e4de5befa8/65_190_5578_3348/master/5578.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=1595c4be7d0f15b3aca1b8b1101945c2",
+        "post_image": "https://cdn.vox-cdn.com/thumbor/xk00poxt8cbsxTqBXM-ICWdAvGQ=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/24627608/1485755960.jpg",
+        "location": "Los Angeles, CA",
+        "likes": 198,
+        "is_small": true,
+        "comments": 15,
+        "share": 5
+    },
+    {
+        "user_name": "AdventureSeeker",
+        "user_profile_pic": "https://personalitytypefamouspeople.files.wordpress.com/2020/10/sm-bonin-khabib-nurmagomedov-7-4a81a18f-luhc.jpg",
+        "post_image": "https://cdn.vox-cdn.com/thumbor/TdwucbVuJrszHwlT_0QttVxfO9w=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/23103774/1350270985.jpg",
+        "location": "Mount Everest",
+        "likes": 453,
+        "comments": 42,
+        "share": 12
+    },
+    {
+        "user_name": "FoodieExplorer",
+        "user_profile_pic": "https://media.wired.com/photos/655d0963cf7ac1fe17f48f2b/master/pass/10-Apps-That-Make-Traveling-Solo-Easier%E2%80%94and-Fun-Gear-GettyImages-1156812619.jpg",
+        "post_image": "https://imageio.forbes.com/blogs-images/johnnyjet/files/2017/10/traveling-alone.jpg?height=598&width=640&fit=bounds",
+        "location": "Paris, France",
+        "likes": 712,
+        "comments": 78,
+        "is_small": true,
+        "share": 20
+    },
+    {
+        "user_name": "FitnessFanatic",
+        "user_profile_pic": "https://media.wired.com/photos/655d0963cf7ac1fe17f48f2b/master/pass/10-Apps-That-Make-Traveling-Solo-Easier%E2%80%94and-Fun-Gear-GettyImages-1156812619.jpg",
+        "post_image": "https://markinthenews.com/wp-content/uploads/2020/07/Leisure-Travel.jpg",
+        "location": "Gym Zone",
+        "likes": 632,
+        "comments": 55,
+        "is_small": false,
+        "share": 18
+    },
+    {
+        "user_name": "CutePets",
+        "user_profile_pic": "https://www.helpguide.org/wp-content/uploads/2023/02/Benefits-of-Pets.jpeg",
+        "post_image": "https://contentgrid.homedepot-static.com/hdus/en_US/DTCCOMNEW/Articles/best-carpet-for-pets-2022-hero.jpg",
+        "location": "Pet Paradise",
+        "likes": 892,
+        "comments": 92,
+        "is_small": true,
+        "share": 25
+    },
+    {
+        "user_name": "TechGeek",
+        "user_profile_pic": "https://i.pinimg.com/originals/48/db/ea/48dbeaeda16a62f70ca2a236d09553e3.jpg",
+        "post_image": "https://thebrownidentity.com/wp-content/uploads/2020/07/pinkvilla.jpg",
+        "location": "Silicon Valley",
+        "likes": 345,
+        "comments": 28,
+        "is_small": true,
+        "share": 9
+    },
+    {
+        "user_name": "Fashionista",
+        "user_profile_pic": "https://miro.medium.com/v2/resize:fit:615/0*iAtFOZfZYrLepZyG.jpg",
+        "post_image": "https://i.guim.co.uk/img/media/59c1b14b1677cc33e27967cf6b11c8fd99a93761/0_102_1080_648/master/1080.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=41356e05bb3a48148afcbbccc71519f4",
+        "location": "Milan, Italy",
+        "likes": 502,
+        "is_small": true,
+        "comments": 61,
+        "share": 15
+    }
+]
