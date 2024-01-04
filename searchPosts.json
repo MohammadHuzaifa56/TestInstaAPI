@@ -45,7 +45,7 @@
         "post_image": "https://markinthenews.com/wp-content/uploads/2020/07/Leisure-Travel.jpg",
         "location": "Gym Zone",
         "likes": 632,
-    	  "is_small" : false
+    	  "is_small" : true,
         "comments": 55,
         "share": 18
     },
@@ -75,7 +75,7 @@
         "post_image": "https://i.guim.co.uk/img/media/59c1b14b1677cc33e27967cf6b11c8fd99a93761/0_102_1080_648/master/1080.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=41356e05bb3a48148afcbbccc71519f4",
         "location": "Milan, Italy",
         "likes": 502,
-        "is_small": false,
+        "is_small": true,
         "comments": 61,
         "share": 15
     },
@@ -85,7 +85,7 @@
         "post_image": "https://i.guim.co.uk/img/media/3f183e3024872dc0280012487854dc5807048166/0_42_3600_2160/master/3600.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=058c94b78fa84d2639fecbef790041f1",
         "location": "New York, NY",
         "likes": 256,
-        "is_small": true,
+        "is_small": false,
         "comments": 32,
         "share": 8
     },
@@ -104,6 +104,7 @@
         "user_profile_pic": "https://personalitytypefamouspeople.files.wordpress.com/2020/10/sm-bonin-khabib-nurmagomedov-7-4a81a18f-luhc.jpg",
         "post_image": "https://cdn.vox-cdn.com/thumbor/TdwucbVuJrszHwlT_0QttVxfO9w=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/23103774/1350270985.jpg",
         "location": "Mount Everest",
+        "is_small", true,
         "likes": 453,
         "comments": 42,
         "share": 12
