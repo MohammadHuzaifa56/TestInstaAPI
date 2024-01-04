@@ -104,7 +104,7 @@
         "user_profile_pic": "https://personalitytypefamouspeople.files.wordpress.com/2020/10/sm-bonin-khabib-nurmagomedov-7-4a81a18f-luhc.jpg",
         "post_image": "https://cdn.vox-cdn.com/thumbor/TdwucbVuJrszHwlT_0QttVxfO9w=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/23103774/1350270985.jpg",
         "location": "Mount Everest",
-        "is_small", true,
+        "is_small": true,
         "likes": 453,
         "comments": 42,
         "share": 12
