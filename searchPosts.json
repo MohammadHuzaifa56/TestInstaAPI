@@ -125,7 +125,7 @@
         "location": "Gym Zone",
         "likes": 632,
         "comments": 55,
-        "is_small": false,
+        "is_small": true,
         "share": 18
     },
     {
