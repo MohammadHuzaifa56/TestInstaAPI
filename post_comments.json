@@ -1,0 +1,52 @@
+[
+  { "profile_pic": "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmFuZG9tfGVufDB8fDB8fHww",
+    "time_duration": "2 hours",
+    "comment": "This is an absolutely breathtaking post! The composition, colors, and overall aesthetic are truly remarkable.",
+    "likes": 12
+  },
+  { "profile_pic": "https://images.pexels.com/photos/34534/people-peoples-homeless-male.jpg?auto=compress&cs=tinysrgb&w=1200",
+    "time_duration": "1 day",
+    "comment": "Your creativity knows no bounds! I'm completely in awe of the artistic expression in this photo.",
+    "likes": 15
+  },
+  { "profile_pic": "https://images.pexels.com/photos/1759531/pexels-photo-1759531.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "time_duration": "3 hours",
+    "comment": "This post is a true masterpiece. The storytelling through each element in the frame is captivating.",
+    "likes": 20
+  },
+  { "profile_pic": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "time_duration": "5 days",
+    "comment": "Such a serene and tranquil scene! The calmness exuded by this photo is like a balm for the soul. It transports me to a place of tranquility and peace. Thank you for sharing this moment of serenity with the world!",
+    "likes": 10
+  },
+  { "profile_pic": "https://images.pexels.com/photos/1040880/pexels-photo-1040880.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "time_duration": "10 minutes",
+    "comment": "Absolutely mesmerizing!",
+    "likes": 18
+  },
+  { "profile_pic": "https://images.pexels.com/photos/1559486/pexels-photo-1559486.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "time_duration": "1 week",
+    "comment": "I'm blown away by the sheer brilliance of this post! The composition is dynamic, the subject is compelling, and the overall mood is electrifying. It's a visual feast that leaves a lasting impression. Pure photographic excellence!",
+    "likes": 25
+  },
+  { "profile_pic": "https://images.pexels.com/photos/428364/pexels-photo-428364.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "time_duration": "4 hours",
+    "comment": "This post is nothing short of awe-inspiring!",
+    "likes": 14
+  },
+  { "profile_pic": "https://images.pexels.com/photos/1080213/pexels-photo-1080213.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "time_duration": "6 days",
+    "comment": "I'm genuinely impressed by the creativity showcased in this post. The composition is unique.",
+    "likes": 22
+  },
+  { "profile_pic": "https://images.pexels.com/photos/6626903/pexels-photo-6626903.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "time_duration": "20 minutes",
+    "comment": "Incredible is an understatement for this post!",
+    "likes": 30
+  },
+  { "profile_pic": "https://images.pexels.com/photos/2613260/pexels-photo-2613260.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "time_duration": "2 weeks",
+    "comment": "This post is a testament to your artistic vision. The storytelling, the colors, and the overall atmosphere are simply exquisite. It's like a window into a different reality, and I can't help but be captivated by the beauty within the frame. Outstanding work!",
+    "likes": 17
+  }
+]
