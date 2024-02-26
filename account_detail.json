@@ -1,0 +1,39 @@
+{
+    "profile_name": "John Scofield",
+    "user_name": "michael01",
+    "profile_pic": "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsX29mZmljZV8yX3Bob3RvX29mX2FfYmxhY2tfYnVzaW5lc3NtYW5faXNvbGF0ZWRfb25fb2ZmX19lZmMxZDllNC1iNzQ5LTQ2NzMtYjRmMS1lYjI0NTBiYzNiOGRfMS5qcGc.jpg",
+    "bio": "this is bio",
+    "following": 134,
+    "followers": 230,
+    "posts": 123,
+    "feeds": [
+        {
+            "image_url": "https://i.natgeofe.com/k/04665f4a-3f8d-4b62-8ca3-09ce7dfc5a20/france-eiffel-tower_square.jpg",
+            "Likes": 143
+        },
+        {
+            "image_url": "https://d3dqioy2sca31t.cloudfront.net/Projects/cms/production/000/024/344/original/5782fee8f7410b49896ffc18475352b6/france-paris-eiffel-tower-fireworks-062818-az.jpg",
+            "likes": 210
+        },
+        {
+            "image_url": "https://i.natgeofe.com/k/04665f4a-3f8d-4b62-8ca3-09ce7dfc5a20/france-eiffel-tower_square.jpg",
+            "Likes": 143
+        },
+        {
+            "image_url": "https://d3dqioy2sca31t.cloudfront.net/Projects/cms/production/000/024/344/original/5782fee8f7410b49896ffc18475352b6/france-paris-eiffel-tower-fireworks-062818-az.jpg",
+            "likes": 210
+        },
+        {
+            "image_url": "https://d3dqioy2sca31t.cloudfront.net/Projects/cms/production/000/024/344/original/5782fee8f7410b49896ffc18475352b6/france-paris-eiffel-tower-fireworks-062818-az.jpg",
+            "likes": 210
+        },
+        {
+            "image_url": "https://i.natgeofe.com/k/04665f4a-3f8d-4b62-8ca3-09ce7dfc5a20/france-eiffel-tower_square.jpg",
+            "Likes": 143
+        },
+        {
+            "image_url": "https://d3dqioy2sca31t.cloudfront.net/Projects/cms/production/000/024/344/original/5782fee8f7410b49896ffc18475352b6/france-paris-eiffel-tower-fireworks-062818-az.jpg",
+            "likes": 210
+        }
+    ]
+}
