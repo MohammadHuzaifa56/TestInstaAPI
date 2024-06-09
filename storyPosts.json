@@ -60,7 +60,7 @@
     },
       {
         "type":"img",
-        "source_url":"https://images.unsplash.com/photo-1565992441121-4367c2967103?q=80&w=2023&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "source_url":"https://github.com/MohammadHuzaifa56/TestInstaAPI/blob/main/story_images/story12.jpeg?raw=true",
         "time":"8h"
     },
       {
@@ -82,7 +82,7 @@
     "stories": [
     {
         "type":"img",
-        "source_url":"https://images.unsplash.com/photo-1542185546-4e89f5fd0e04?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "source_url":"https://github.com/MohammadHuzaifa56/TestInstaAPI/blob/main/story_images/story13.jpeg?raw=true",
         "time":"11m"
     }
     ]
@@ -94,12 +94,12 @@
     "stories": [
     {
         "type":"img",
-        "source_url":"https://images.unsplash.com/photo-1600434890250-44df6e4c0d05?q=80&w=2180&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "source_url":"https://github.com/MohammadHuzaifa56/TestInstaAPI/blob/main/story_images/story14.jpeg?raw=true",
         "time":"11h"
     },
     {
         "type":"img",
-        "source_url":"https://images.unsplash.com/photo-1595426496987-37c7113b24a6?q=80&w=3024&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "source_url":"https://github.com/MohammadHuzaifa56/TestInstaAPI/blob/main/story_images/story15.jpeg?raw=true",
         "time":"11h"
     },
     {
